@@ -32,7 +32,7 @@ Check the [wiki](https://github.com/KerbalMissile/Liquid-Utilities/wiki) for inf
 
 **Example Mod:**
 
-Kerbol Liquid Changes (Not Published Yet. Soon)
+[Kerbol Liquid Changes (KLC)](https://spacedock.info/mod/4602/Kerbol%20Liquid%20Changes%20(KLC))
 
 KLC basically just changes the water on Laythe / Kerbin to be Salt / Fresh water depending on the area. Not all Kerbin or Laythe lakes are supported, this mod is more just used to show what Liquid Utilities can do. It most likely will be updated as new features come out for LU.
 
