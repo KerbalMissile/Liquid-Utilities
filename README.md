@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="LULogo" src="https://github.com/user-attachments/assets/2bbbfaba-94b4-49f8-8a65-257d24645398" /># Liquid Utilities
+# Liquid Utilities
 
 ---
 
