@@ -24,7 +24,7 @@ Liquid Utilities (LU for short) is a KSP mod that allows planet modders to do mo
 
 Example Mod:
 
-Kerbol Liquid Changes
+Kerbol Liquid Changes (Not Published Yet. Soon)
 
 KLC basically just changes the water on Laythe / Kerbin to be Salt / Fresh water depending on the area. Not all Kerbin or Laythe lakes are supported, this mod is more just used to show what Liquid Utilities can do. It most likely will be updated as new features come out for LU.
 
