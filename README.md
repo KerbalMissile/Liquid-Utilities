@@ -22,7 +22,7 @@ Liquid Utilities (LU for short) is a KSP mod that allows planet modders to do mo
 
 ---
 
-Example Mod:
+**Example Mod:**
 
 Kerbol Liquid Changes (Not Published Yet. Soon)
 
