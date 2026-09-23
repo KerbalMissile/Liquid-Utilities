@@ -8,6 +8,14 @@ Liquid Utilities (LU for short) is a KSP mod that allows planet modders to do mo
 
 ---
 
+**Important Information:**
+
+This mod does NOTHING on its own, it needs configs.
+
+Check the [wiki](https://github.com/KerbalMissile/Liquid-Utilities/wiki) for information on how to make configs for it.
+
+---
+
 **Features:**
 
 - Liquid density (Ex: Salt water would have a 1.025 density which makes you float higher)
